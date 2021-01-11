@@ -1,3 +1,3 @@
-module github.com/z459ru/count1
+module github.com/z459ru/Count
 
 go 1.15
